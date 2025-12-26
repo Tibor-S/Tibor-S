@@ -3,5 +3,7 @@ Grabb <br/>
 
 ## [Soundscape](https://github.com/Tibor-S/soundscape)
 ## [Langlog](https://github.com/Tibor-S/langlog)
+<img src="http://media.tibors.se/langlog-ex.gif" height="400px" />
+
 ## [Leetcode](https://github.com/Tibor-S/Leetcode)
 ![LeetCode Stats](https://leetcard.jacoblin.cool/SebastianSandstig?theme=dark&font=Noto%20Serif%20Myanmar)
